@@ -1,3 +1,8 @@
+## Upload a file
+
+![image](https://github.com/jatolentino/uploadToGithub/assets/61167951/5e384152-aa69-4218-bf94-b6f93f781945)
+
+
 ### Create your Github token
 - Follow these steps
   
