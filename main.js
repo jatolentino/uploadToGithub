@@ -1,6 +1,6 @@
 
-const owner = ""; // your Github User
-const token = ""; // your token, read the readme for more info
+const owner = "user"; // your Github User
+const token = "vfdgdf"; // your token, read the readme for more info
 let pdfFile = null;
 let theFileData  = null;
 
